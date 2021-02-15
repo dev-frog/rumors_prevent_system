@@ -1,0 +1,22 @@
+{
+  "name": "fake-news-detector",
+  "version": "1.0.0",
+  "description": "The model is called `fake_news_classifier.joblib`. The vectorizer used to convert words into numbers the model can recognize is called `tfidf_vectorizer.joblib`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-wen/fake-news-detector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-wen/fake-news-detector/issues"
+  },
+  "homepage": "https://github.com/william-wen/fake-news-detector#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}

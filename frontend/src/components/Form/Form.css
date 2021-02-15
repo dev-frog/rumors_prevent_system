@@ -1,0 +1,60 @@
+#article_text {
+    width: 80%;
+    height: 60%;
+}
+
+.from_style{
+    width: 48%;
+    text-align: center;
+}
+
+.input_section{
+    width: 50%;
+    padding: 12px 20px;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.input_button{
+    line-height: 18px;
+    padding: 8.5px 33px;
+    background: #ff9800;
+    color: #ffffff;
+    border: 2px solid #ff9800;
+    outline: none;
+    border-radius: 0px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#article_render{
+    text-align: center;
+}
+
+
+
+#article_render p{
+    color: #ffffff;
+}
+
+#article_render{
+    color: #ffffff;
+}
+
+.red_color{
+    background: #e61e0f;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+.gree_color{
+    background: #4caf50;
+    text-align: center;
+    padding: 10px;
+
+}
+    

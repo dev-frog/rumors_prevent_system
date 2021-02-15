@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints
+test.ipynb
+.idea
+
+__pycache__/
+venv/
+.vscode
+spider/
+node_modules/
